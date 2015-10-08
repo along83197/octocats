@@ -1,0 +1,33 @@
+.octodex  {
+  list-style-type: none;
+  display: inline-block;
+  float: left;
+}
+
+.octocat a img {
+  border: 2px solid gray
+}
+.octodex li  {
+  border-bottom: 1px solid gray;
+}
+
+li.octocat  {
+  display: inline-block;
+  width: 32%;
+}
+
+li.octocat img {
+  width: 100%;
+  border: 2px solid gray;
+  padding: 2%;
+}
+
+ul.authors img {
+  width: 30px;
+
+}
+.authors  {
+  float: right;
+  list-style: none;
+  border: none;
+}
